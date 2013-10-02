@@ -1,4 +1,8 @@
-ccdctutorials
+CCDC Tutorials.
 =============
-Lol, there is no readme.
-.
+
+Start off with Basic Linux
+Then Linux Security
+IDS
+WebApp
+Routers
